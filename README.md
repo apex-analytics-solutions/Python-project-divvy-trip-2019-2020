@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Divvy-trip-2019 & 2020: A Comparative Analysis of Rider Behavior</title>
+  <title> Divvy-trip-2019 & 2020: A Comparative Analysis of Rider Behavior </title>
 </head>
 <body>
 
