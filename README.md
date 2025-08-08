@@ -1,10 +1,8 @@
-# Python-project-divvy-trip-2019-2020
-Website Link : https://apex-analytics-solutions.github.io/Python-project-divvy-trip-2019-2020/
-
-  <h1>Divvy-trip-2019 & 2020: A Comparative Analysis of Rider Behavior</h1>
-  <p><strong>Author:</strong> Data Analyst</p>
-
-  <br>
+---
+Title: "Divvy-trip-2019 & 2020: A Comparative Analysis of Rider Behavior"
+author: "Anees Ur Rehman Data Analyst"
+Website Link: "https://apex-analytics-solutions.github.io/My_R_Project-Divvy_Trip_2019-2020/"
+---
 
   <h2>Project Overview</h2>
   <p>The aim of this project is to analyze and compare Divvy trip data from 2019 and 2020 to understand rider behavior. The analysis focuses on key aspects such as trip duration, station usage, and rider demographics. By examining these trends, we can gain insights into how the usage of the Divvy bike-sharing program changed between the two years.</p>
