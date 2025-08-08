@@ -1,10 +1,5 @@
 # Python-project-divvy-trip-2019-2020
-<!DOCTYPE html>
-<html>
-<head>
-  <title> Divvy-trip-2019 & 2020: A Comparative Analysis of Rider Behavior </title>
-</head>
-<body>
+Website Link : https://apex-analytics-solutions.github.io/Python-project-divvy-trip-2019-2020/
 
   <h1>Divvy-trip-2019 & 2020: A Comparative Analysis of Rider Behavior</h1>
   <p><strong>Author:</strong> Data Analyst</p>
@@ -29,5 +24,3 @@
   <h3>Rider Type</h3>
   <p>A comparative analysis of rider types (casual vs. member) was conducted. A bar chart illustrates the percentage of each rider type in both 2019 and 2020. The data shows a significant percentage difference in the proportion of casual riders between the two years. For both years, members make up the vast majority of riders. However, there was a greater proportion of casual riders in 2020 than in 2019. This could indicate a change in rider demographics or usage patterns, potentially due to external factors.</p>
 
-</body>
-</html>
